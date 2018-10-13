@@ -11,13 +11,13 @@ You must complete this task with a 100% score to pass this class.
 
 Specification:  
  
-- [ ] 1. Accept the Github Classroom assignment.   
-- [ ] 2. Clone YOUR repository. Do not clone the instructor's repository.  
-- [ ] 3. Add the REPORT.md file to your solution.  
-- [ ] 4. Modify the local main.cpp by uncommenting the // code to output "hello, world".  
-- [ ] 5. Build all versions and run the program.  You may need to right click the solution and click Retarget solution.  
-- [ ] 6. Update the REPORT.md file.  
-- [ ] 7. Review the git status of your local changes.  
+- [x] 1. Accept the Github Classroom assignment.   
+- [x] 2. Clone YOUR repository. Do not clone the instructor's repository.  
+- [x] 3. Add the REPORT.md file to your solution.  
+- [x] 4. Modify the local main.cpp by uncommenting the // code to output "hello, world".  
+- [x] 5. Build all versions and run the program.  You may need to right click the solution and click Retarget solution.  
+- [x] 6. Update the REPORT.md file.  
+- [x] 7. Review the git status of your local changes.  
 - [ ] 8. Commit your changes using: git commit -m "Description of changes in this commit."  
 - [ ] 9. Push your changes to your repository.  
 - [ ] 10. Confirm your changes are available on GitHub.  
